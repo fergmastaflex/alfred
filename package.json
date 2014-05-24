@@ -29,7 +29,6 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "optparse": ">= 1.0.3",
     "hubot-xmpp": ">= 0.0.1"
-    "node-xmpp"
   },
 
   "engines": {
