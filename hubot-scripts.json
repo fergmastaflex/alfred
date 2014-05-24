@@ -9,5 +9,5 @@
   "github-search.coffee",
   "github-status.coffee",
   "heroku-status.coffee",
-  "redis-brain.coffee",
+  "redis-brain.coffee"
 ]
