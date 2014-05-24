@@ -1,13 +1,1 @@
-[
-  "git-help.coffee",
-  "github-activity.coffee",
-  "github-activity.coffee",
-  "github-commit-link.coffee",
-  "github-issue-link.coffee",
-  "github-merge.coffee",
-  "github-pulls.coffee",
-  "github-search.coffee",
-  "github-status.coffee",
-  "heroku-status.coffee",
-  "redis-brain.coffee"
-]
+["redis-brain.coffee"]
