@@ -1,11 +1,10 @@
 [
-  "redis-brain.coffee", 
-  "shipit.coffee",
   "abstract.coffee",
   "ackbar.coffee",
   "chuck-norris.coffee",
   "gemwhois.coffee",
   "git-help.coffee",
+  "github-activity.coffee",
   "github-activity.coffee",
   "github-commit-link.coffee",
   "github-issue-link.coffee",
