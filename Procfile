@@ -1,1 +1,1 @@
-web: bin/hubot -a gtalk -n alfred
+web: bin/hubot -a xmpp -n alfred
